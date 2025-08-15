@@ -1,6 +1,6 @@
 # apnacollege-demo
 This is my first Git  Repository
 <br>
-Author- Shivanand
+Author- Shivu
 <br>
 Date of Birth:25/12/2006
