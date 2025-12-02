@@ -1,5 +1,5 @@
 # apnacollege-demo
-This is my first Git  Repository
+This is My first Git  Repository
 <br>
 Author- Shivu
 <br>
